@@ -4,7 +4,9 @@ This is an student community for geeks who want to contribute in field of Artifi
 
 ## Socials
 
-<p align="left"> <a href="https://discord.gg/7YxqH7S9yD" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
+<p align="left">
+<a href="http://Linkedin.com/Company/shaids-dmce" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href="http://www.instagram.com/shaids-dmce" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
 
 ## Leads
 - [Yash Bhangale](https://github.com/yashbhangale)
