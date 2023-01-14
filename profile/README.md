@@ -17,6 +17,6 @@ This is an student community for geeks who want to contribute in field of Artifi
 
 ## Feedback
 
-If you have any feedback, please reach out to us at fake@fake.com
+If you have any feedback, please reach out to us [here](http://www.instagram.com/shaids-dmce)
 
 ![](https://komarev.com/ghpvc/?username=SHAIDS-DMCE&label=Visitor+Counter&style=for-the-badge&color=0c94b4)
