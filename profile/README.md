@@ -14,6 +14,7 @@ This is an student community for geeks who want to contribute in field of Artifi
 - [Nirakar Jena](https://github.com/nirakar24)
 - [Ishan Parsone](https://github.com/LeIouch-Vi-Britannia)
 - [Aniket ](https://github.com/)
+- [Vedant Ranade](https://github.com/vrmaverick)
 
 
 
